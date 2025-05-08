@@ -1,8 +1,8 @@
-- 👋 Hi - I’m Devang Narayan 
+- 👋 Hi! I’m Devang Narayan 
 - 👀 I’m interested in reading books, playing the piano, playing football and coding!
-- 🌱 I’m currently learning Jonas Schmedtmann's JavaScript Course.
-- 💞️ I’m looking to collaborate on anything related to books, football, coding and piano.
-- 📫 How to reach me - devangnarayan@icloud.com
+- 🌱 I’m currently learning Angela Yu's 100 Days of Code Python course.
+- 💞️ I’m looking to collaborate on anything related to books, coding and piano.
+- 📫 How to reach me - devangnpillai@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
